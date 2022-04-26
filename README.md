@@ -32,5 +32,7 @@ Caso de Uso: Consulta FIPE
 # ------------------------------------------
 O sistema deve realizar uma busca através de uma API Web que traz dados oficiais da tabela FIPE quais são os veículos de acordo com os parametros selecionados. Esses dados irão compor a planilha excel. API CONSULTADA: https://parallelum.com.br/fipe/api/v2/cars/brands
 
-Diagrama de Classe
+<h3>Diagrama de Classe</h3>
 diagrama_classe
+
+![trampo](https://user-images.githubusercontent.com/103701313/165396854-ce6c93f0-5bb4-41b5-ae13-41c88050c1c2.png)
