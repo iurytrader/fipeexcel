@@ -37,7 +37,10 @@ diagrama_classe
 
 ![trampo](https://user-images.githubusercontent.com/103701313/165396854-ce6c93f0-5bb4-41b5-ae13-41c88050c1c2.png)
 
-<h3> Diagrama de Ativdade
+<h3> Diagrama de Atividade <h/h3>
+  
+ <br>
+  
   
   
 ![png diagrama de atividade](https://user-images.githubusercontent.com/103701313/166343130-3399804c-e5ca-45a3-b533-b4b063da365d.png)
