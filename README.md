@@ -30,7 +30,7 @@ O usuário deve acessar a opção de envio da planilha gerada por e-mail. O usu�
 O usuário acessa o sistema e seleciona em uma caixa de seleção o tipo de veículo que ele está buscando(caminhão, carro ou moto), também deve selcionar através de uma caixa de seleção a marca do veículo, o ano inicial da busca e o ano final da busca. Após inserir essas informações o usuário clica no botão Gerar Planilha e o sistema começa a busca baseado nos parametros informados(Caso de Uso: Consulta FIPE). Após gerar o relatório o sistema deve emitir um alerta dizendo que a atividade foi concluída com sucesso. NO arquivo Excel devem ser exibidos os seguintes dados: Código Fipe do Veículo, Nome do Veículo, Valor, Ano e Tipo de Combustível.
 Caso de Uso: Consulta FIPE
 
-# O sistema deve realizar uma busca através de uma API Web que traz dados oficiais da tabela FIPE quais são os veículos de acordo com os parametros selecionados. Esses dados irão compor a planilha excel. API CONSULTADA: https://parallelum.com.br/fipe/api/v2/cars/brands
+O sistema deve realizar uma busca através de uma API Web que traz dados oficiais da tabela FIPE quais são os veículos de acordo com os parametros selecionados. Esses dados irão compor a planilha excel. API CONSULTADA: https://parallelum.com.br/fipe/api/v2/cars/brands
 
 <h3>Diagrama de Classe</h3>
 diagrama_classe
