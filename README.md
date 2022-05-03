@@ -23,7 +23,7 @@ Regra de Negócio: 001 - Consulta a Tabela FIPE. A consulta a tabela FIPE deve s
 
 ![WhatsApp Image 2022-05-02 at 20 47 01](https://user-images.githubusercontent.com/103701313/166344424-c4a7a34e-41b4-4355-af85-4508cc16be4a.jpeg)
 
-uc001
+O usuário deve acessar a opção da planilha gerada por e-mail. O usuário insere o email desejado e clica no botão selecionar para buscar o relatório em excel. Ele então seleciona o relatório e clica na opção enviar. O sistema emite um alerta dizendo que o email com o relatório foi enviado com sucesso. 
 
 # Caso de Uso: Enviar Tabela por Email
 
